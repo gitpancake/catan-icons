@@ -15,12 +15,11 @@ npm install --save catan-icons
 ```tsx
 import React, { Component } from 'react'
 
-import MyComponent from 'catan-icons'
-import 'catan-icons/dist/index.css'
+import { City } from 'catan-icons'
 
-class Example extends Component {
+const YourComponent = () => {
   render() {
-    return <MyComponent />
+    return <City />
   }
 }
 ```
@@ -28,4 +27,3 @@ class Example extends Component {
 ## License
 
 MIT © [gitpancake](https://github.com/gitpancake)
-# catan-icons
