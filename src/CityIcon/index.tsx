@@ -10,7 +10,6 @@ export default () => {
       viewBox='0 0 900.000000 520.000000'
       preserveAspectRatio='xMidYMid meet'
     >
-      <h1>HEY</h1>
       <g
         transform='translate(0.000000,520.000000) scale(0.100000,-0.100000)'
         fill='#000000'
