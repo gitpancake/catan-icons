@@ -28,3 +28,4 @@ class Example extends Component {
 ## License
 
 MIT © [gitpancake](https://github.com/gitpancake)
+# catan-icons
